@@ -47,7 +47,7 @@ h3{
     display: grid;
     grid-area: pages;
     text-indent: 1em;
-    font-size: 0.7em;
+    font-size: 0.9em;
     line-height: 3.4em;
     padding-right: 20px;
     grid-column: 1/2;
